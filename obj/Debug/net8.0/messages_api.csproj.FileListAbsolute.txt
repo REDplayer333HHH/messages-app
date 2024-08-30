@@ -136,3 +136,4 @@ C:\Users\horia\Desktop\projects\cs\messages_api\obj\Debug\net8.0\refint\messages
 C:\Users\horia\Desktop\projects\cs\messages_api\obj\Debug\net8.0\messages_api.pdb
 C:\Users\horia\Desktop\projects\cs\messages_api\obj\Debug\net8.0\messages_api.genruntimeconfig.cache
 C:\Users\horia\Desktop\projects\cs\messages_api\obj\Debug\net8.0\ref\messages_api.dll
+C:\Users\horia\Desktop\projects\cs\messages_api\obj\Debug\net8.0\messages_api.sourcelink.json
