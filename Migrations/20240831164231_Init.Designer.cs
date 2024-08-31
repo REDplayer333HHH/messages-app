@@ -11,7 +11,7 @@ using api.Data;
 namespace messages_api.Migrations
 {
     [DbContext(typeof(Database))]
-    [Migration("20240831085255_Init")]
+    [Migration("20240831164231_Init")]
     partial class Init
     {
         /// <inheritdoc />
